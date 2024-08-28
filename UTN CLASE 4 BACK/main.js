@@ -1,4 +1,4 @@
-"use strict";
+/* "use strict"; */
 /* /* Tema pendienta de TypeScript */
 /* const arrayEspecial : [string, number] = ['pepe', 15]
 
